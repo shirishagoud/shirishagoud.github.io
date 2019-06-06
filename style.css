@@ -3,8 +3,22 @@
                 background:yellow;
             }
             
-            #first{
+            {
                 color:yellow;
                 background:red;
             }
-        
+        h2
+{
+    color:blue;
+    background:brown;
+}
+
+h3{
+    color:black;
+        background:green;
+}
+h4{
+    
+    color:aqua;
+    background:red;
+}
