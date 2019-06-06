@@ -1,0 +1,72 @@
+<!Doctype html>
+<html>
+    <head>
+        <title>
+            My Resume
+        </title>
+        <meta name="language" content= "English">
+              <meta name="Keywords" content="my page,my website,first website">
+        <meta name="description" content="This is my first webpage developed in coding bootcamp by packetprep          
+        <link href="style.css" type="text/css" rel="stylesheet">
+      
+    </head>
+    <body>
+        <h1>T .shirisha </h1>  
+        
+        
+        <p>
+        Iam from warangal but have settled in Hyderabad .<br> my family consists of my father,my mother , two brother and me </p>
+                      
+                                                               
+    <p> Address :b21/f1,srinivasa colony east,hyd-500038</p>  
+        
+        <h2>Education Qualification</h2>
+        <table border=1>
+        
+         <tr>
+    <th>SNo</th>
+    <th>Board of Education</th> 
+    <th>Name of the school/college</th>
+             <th>year of passing</th>
+             <th>percentage</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>BTECH</td> 
+    <td>SWAMI VIVEKANANDA INSTITUTE OF TECHNOLOGY</td>
+      <td>2021</td>
+      <td>75%</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>INTERMEDIATE</td> 
+    <td>NARAYANA COLLEGE</td>
+      <td>2016</td>
+      <td>90%</td>
+  </tr>
+            <th>3</th>
+    <td>SSC</td> 
+    <td>NAGARJUNA HIGH SCHOOL</td>
+            <td>2015</td>
+            <td>8.0</td>
+  </tr>
+  
+</table>
+    
+        <h3>skills</h3>
+        <ul>
+        <li>c</li>
+        <li>c++</li>
+        <li>MS WORD</li>
+    <li>playing pubg</li>                                                      
+        </ul>
+                      
+        <h4>Languages Known</h4>
+                      <ol>    
+                      <li>Telugu</li>
+                      <li>Hindi</li>
+                      <li>English</li>
+                      </ol>
+
+    </body>
+</html>
