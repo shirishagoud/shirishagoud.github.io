@@ -9,10 +9,29 @@ h2{
     
 }          
 h3{
-    color:brown;
-    background:blue;
+    color:black;
+    background:pink;
 }
 h4{
     color:yellow;
     background:red;
 }
+body{
+    
+    
+    background:#F8EFBA;
+}
+#box{
+    background:white;
+    margin: 40px 40px 40px 40px;
+    
+    
+    
+}
+#image{
+    width:100px;
+    height:120px;
+    border:5px solid blackzzzz;
+    border-radius: 100px;
+}
+    
